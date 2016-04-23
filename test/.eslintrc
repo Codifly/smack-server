@@ -1,0 +1,10 @@
+{
+  "env": {
+    "mocha": true
+  },
+  "rules": {
+    "no-throw-literal": 0,
+    "max-nested-callbacks": 0,
+    "padded-blocks": 0
+  }
+}
